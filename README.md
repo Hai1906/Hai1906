@@ -1,5 +1,6 @@
 ## Note 👋
-Assign function for enum: https://stackoverflow.com/questions/49590253/be-able-to-call-a-function-from-an-enum-c-sharp
+C#:
+  1. Assign function for enum: https://stackoverflow.com/questions/49590253/be-able-to-call-a-function-from-an-enum-c-sharp
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
