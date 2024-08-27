@@ -6,6 +6,7 @@ C#:
   4. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   5. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
   6. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
+  7. https://www.kaggle.com/code/benmanor/crater-object-detection-using-faster-rcnn/notebook
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
