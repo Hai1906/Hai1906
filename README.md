@@ -4,6 +4,8 @@ C#:
   2. Class from (string)ClassName: https://stackoverflow.com/questions/1044455/c-sharp-reflection-how-to-get-class-reference-from-string
   3. String to enum: https://stackoverflow.com/questions/16100/convert-a-string-to-an-enum-in-c-sharp
   4. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
+  5. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
+  6. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
