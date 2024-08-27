@@ -3,7 +3,7 @@ C#:
   1. Assign function for enum: https://stackoverflow.com/questions/49590253/be-able-to-call-a-function-from-an-enum-c-sharp
   2. Class from (string)ClassName: https://stackoverflow.com/questions/1044455/c-sharp-reflection-how-to-get-class-reference-from-string
   3. String to enum: https://stackoverflow.com/questions/16100/convert-a-string-to-an-enum-in-c-sharp
-
+  4. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
