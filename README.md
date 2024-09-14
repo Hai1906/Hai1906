@@ -14,6 +14,7 @@ C#:
   11. https://colab.research.google.com/drive/1Ic38gCj7tFcj46NbJGFpZc__sG_0sGES?usp=sharing
   12. https://pseudo-lab.github.io/Tutorial-Book-en/chapters/en/object-detection/Ch5-Faster-R-CNN.html
   13. https://stackoverflow.com/questions/71754254/text-line-segmentation-using-opencv-python
+  14. https://stackoverflow.com/questions/9480013/image-processing-to-improve-tesseract-ocr-accuracy
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
