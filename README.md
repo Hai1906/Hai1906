@@ -16,6 +16,7 @@ C#:
   13. https://stackoverflow.com/questions/71754254/text-line-segmentation-using-opencv-python
   14. https://stackoverflow.com/questions/9480013/image-processing-to-improve-tesseract-ocr-accuracy
   15. https://stackoverflow.com/questions/71462468/altering-pytorch-resnet-head-from-sigmoid-to-softmax
+  16. https://www.kaggle.com/code/hrishikeshjadhav/multiclass-classification-using-resnet50
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
