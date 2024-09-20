@@ -17,6 +17,7 @@ C#:
   14. https://stackoverflow.com/questions/9480013/image-processing-to-improve-tesseract-ocr-accuracy
   15. https://stackoverflow.com/questions/71462468/altering-pytorch-resnet-head-from-sigmoid-to-softmax
   16. https://www.kaggle.com/code/hrishikeshjadhav/multiclass-classification-using-resnet50
+  17. https://github.com/ZhengJun-AI/MoirePhotoRestoration-MCNN?tab=readme-ov-file
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
