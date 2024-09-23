@@ -19,6 +19,7 @@ C#:
   16. https://www.kaggle.com/code/hrishikeshjadhav/multiclass-classification-using-resnet50
   17. https://github.com/ZhengJun-AI/MoirePhotoRestoration-MCNN?tab=readme-ov-file
   18. https://www.kaggle.com/code/boascent/multi-label-image-classification-pytorch-gpu
+  19. https://www.scalablepath.com/machine-learning/chatgpt-architecture-explained
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
