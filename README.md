@@ -23,6 +23,7 @@ C#:
   20. https://github.com/cong-yang/MoireDet/tree/main/MoireDet
   21. https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
   22. https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
+  23. https://github.com/github/gitignore/tree/main
 
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
