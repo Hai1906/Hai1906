@@ -25,6 +25,9 @@ C#:
   22. https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
   23. https://github.com/github/gitignore/tree/main
 
+
+
+https://github.com/massgravel/microsoft-activation-scripts
 <!--
 **Hai1906/Hai1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
