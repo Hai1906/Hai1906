@@ -24,6 +24,7 @@ C#:
   21. https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
   22. https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
   23. https://github.com/github/gitignore/tree/main
+  24. https://github.com/roboflow/tensorflow-object-detection-faster-rcnn/blob/master/tensorflow_object_detection_training_colab.ipynb
 
 
 
