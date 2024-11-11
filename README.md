@@ -26,6 +26,8 @@ C#:
   23. https://github.com/github/gitignore/tree/main
   24. https://github.com/roboflow/tensorflow-object-detection-faster-rcnn/blob/master/tensorflow_object_detection_training_colab.ipynb
 
+  25. Reload_to_retrain_torch: https://discuss.pytorch.org/t/loading-a-saved-model-for-continue-training/17244
+
 
 
 https://github.com/massgravel/microsoft-activation-scripts
