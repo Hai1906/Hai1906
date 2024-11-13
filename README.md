@@ -32,6 +32,7 @@ C#:
 
 
 https://github.com/massgravel/microsoft-activation-scripts
-
+FrontEnd:
+  1. https://freefrontend.com/
 QR:
   1. https://pypi.org/project/qreader/
