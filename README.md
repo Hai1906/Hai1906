@@ -3,7 +3,9 @@ C#:
   1. Assign function for enum: https://stackoverflow.com/questions/49590253/be-able-to-call-a-function-from-an-enum-c-sharp
   2. Class from (string)ClassName: https://stackoverflow.com/questions/1044455/c-sharp-reflection-how-to-get-class-reference-from-string
   3. String to enum: https://stackoverflow.com/questions/16100/convert-a-string-to-an-enum-in-c-sharp
-     
+
+Python:
+  1. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
 AI:
   1. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   2. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
@@ -28,9 +30,8 @@ AI:
   21. https://github.com/roboflow/tensorflow-object-detection-faster-rcnn/blob/master/tensorflow_object_detection_training_colab.ipynb
 
   22. Reload_to_retrain_torch: https://discuss.pytorch.org/t/loading-a-saved-model-for-continue-training/17244
-  23. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
 
-  24. Preprocessing:
+  23. Preprocessing:
         - https://github.com/wkentaro/labelme
         - https://github.com/aleju/imgaug
         - https://albumentations.ai/
