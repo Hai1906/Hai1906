@@ -6,7 +6,9 @@ C#:
 
 Python:
   1. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
-     
+
+Git:
+  1. https://github.com/github/gitignore/tree/main
 AI:
   1. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   2. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
@@ -26,16 +28,16 @@ AI:
   16. https://www.scalablepath.com/machine-learning/chatgpt-architecture-explained
   17. https://github.com/cong-yang/MoireDet/tree/main/MoireDet
   18. https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
-  19. https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
-  20. https://github.com/github/gitignore/tree/main
-  21. https://github.com/roboflow/tensorflow-object-detection-faster-rcnn/blob/master/tensorflow_object_detection_training_colab.ipynb
 
-  22. Reload_to_retrain_torch: https://discuss.pytorch.org/t/loading-a-saved-model-for-continue-training/17244
+  19. https://github.com/roboflow/tensorflow-object-detection-faster-rcnn/blob/master/tensorflow_object_detection_training_colab.ipynb
 
-  23. Preprocessing:
+  20. Reload_to_retrain_torch: https://discuss.pytorch.org/t/loading-a-saved-model-for-continue-training/17244
+
+  21. Preprocessing:
         - https://github.com/wkentaro/labelme
         - https://github.com/aleju/imgaug
         - https://albumentations.ai/
+        - https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
