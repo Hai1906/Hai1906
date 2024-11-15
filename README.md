@@ -6,6 +6,7 @@ C#:
 
 Python:
   1. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
+     
 AI:
   1. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   2. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
