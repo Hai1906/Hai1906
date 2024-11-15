@@ -29,6 +29,7 @@ AI:
 
   22. Reload_to_retrain_torch: https://discuss.pytorch.org/t/loading-a-saved-model-for-continue-training/17244
   23. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
+  24. https://github.com/wkentaro/labelme
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
