@@ -33,6 +33,7 @@ AI:
   24. Preprocessing:
         - https://github.com/wkentaro/labelme
         - https://github.com/aleju/imgaug
+        - https://albumentations.ai/
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
