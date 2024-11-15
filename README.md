@@ -9,6 +9,7 @@ Python:
 
 Git:
   1. https://github.com/github/gitignore/tree/main
+     
 AI:
   1. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   2. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
