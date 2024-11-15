@@ -31,8 +31,8 @@ AI:
   23. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
 
   24. Preprocessing:
-    1. https://github.com/wkentaro/labelme
-    2. https://github.com/aleju/imgaug
+        - https://github.com/wkentaro/labelme
+        - https://github.com/aleju/imgaug
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
