@@ -39,6 +39,9 @@ AI:
         - https://github.com/aleju/imgaug
         - https://albumentations.ai/
         - https://stackoverflow.com/questions/67330319/how-to-improve-image-alignment-with-opencv
+     
+        - https://pytorch.org/vision/main/models/generated/torchvision.models.detection.maskrcnn_resnet50_fpn.html
+        - https://pytorch.org/vision/main/auto_examples/others/plot_visualization_utils.html#instance-seg-output
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
