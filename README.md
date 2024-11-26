@@ -46,6 +46,7 @@ AI:
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
   2. https://stackoverflow.com/questions/515309/what-does-cmd-c-mean
+  3. https://www.manageengine.com/products/desktop-central/script-templates/latest-script.html
      
 FrontEnd:
   1. https://freefrontend.com/
