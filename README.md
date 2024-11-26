@@ -53,3 +53,6 @@ FrontEnd:
      
 QR:
   1. https://pypi.org/project/qreader/
+
+Windows:
+  1. https://learn.microsoft.com/en-us/answers/questions/354631/using-wmi-uninstall-commands-with-variables
