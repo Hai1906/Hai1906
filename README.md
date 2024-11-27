@@ -83,4 +83,5 @@ Windows:
   3. "this operation has been cancelled due to restrictions in effect on this computer":
      
        Windows + R -> HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer -> Delete "NoViewOnDrive"
+  4. https://learn.microsoft.com/en-us/dotnet/framework/windows-services/how-to-install-and-uninstall-services
 
