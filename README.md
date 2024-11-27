@@ -57,8 +57,7 @@ QR:
 Windows:
   1. https://learn.microsoft.com/en-us/answers/questions/354631/using-wmi-uninstall-commands-with-variables
   2. Uninstall application:
-        $uninstall32 = gci "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall" | foreach { gp $_.PSPath } | ? { $_ -match "SOFTWARE NAME" } | select   
-        UninstallString       
+        $uninstall32 = gci "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall" | foreach { gp $_.PSPath } | ? { $_ -match "SOFTWARE NAME" } | select UninstallString       
         $uninstall64 = gci "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" | foreach { gp $_.PSPath } | ? { $_ -match "SOFTWARE NAME" } | select UninstallString
             
         if ($uninstall64) {
