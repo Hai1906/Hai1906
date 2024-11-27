@@ -80,4 +80,6 @@ Windows:
           Write "Uninstalling..."
           start-process "msiexec.exe" -arg "/X $uninstall32 /qb" -Wait
       }
+  3. "this operation has been cancelled due to restrictions in effect on this computer":
+       Windows + R -> HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer -> Delete "NoViewOnDrive"
 
