@@ -6,6 +6,7 @@ C#:
 
 Python:
   1. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
+  2. https://github.com/Belval/pdf2image
 
 Git:
   1. https://github.com/github/gitignore/tree/main
