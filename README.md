@@ -85,4 +85,6 @@ Windows:
      
        Windows + R -> HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer -> Delete "NoViewOnDrive"
   4. https://learn.microsoft.com/en-us/dotnet/framework/windows-services/how-to-install-and-uninstall-services
+  5. Using Automation to interact with some app
+       - https://gist.github.com/DBremen/0e73989fbe49a538331a8c36b9f905ae
 
