@@ -88,26 +88,26 @@ Windows:
   5. Using Automation to interact with some app
        - https://gist.github.com/DBremen/0e73989fbe49a538331a8c36b9f905ae
        - Get Elements:
-           ##Script
+         
            ```powershell
              Add-Type -AssemblyName UIAutomationClient
               Add-Type -AssemblyName UIAutomationTypes
               $calc = [Diagnostics.Process]::Start('calc')
-              # Đợi ứng dụng Calculator khởi động
+              # waiting process start
               $null = $calc.WaitForInputIdle(5000)
               sleep -s 2
               
-              # Lấy ID cửa sổ của Calculator
+              # get main windows title id
               $calcWindowId = ((Get-Process).where{$_.MainWindowTitle -eq 'Calculator'})[0].Id
               $root = [Windows.Automation.AutomationElement]::RootElement
               $condition = New-Object Windows.Automation.PropertyCondition([Windows.Automation.AutomationElement]::ProcessIdProperty, $calcWindowId)
               $calcUI = $root.FindFirst([Windows.Automation.TreeScope]::Children, $condition)
               
-              # Tìm tất cả các button
+              # find all button
               $buttonCondition = New-Object Windows.Automation.PropertyCondition([Windows.Automation.AutomationElement]::ClassNameProperty, "Button")
               $buttons = $calcUI.FindAll([Windows.Automation.TreeScope]::Descendants, $buttonCondition)
               
-              # In ra tên của tất cả các button
+              # print buttons name
               $buttons | ForEach-Object {
                   $_.Current.Name
               }
