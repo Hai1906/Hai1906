@@ -45,6 +45,8 @@ AI:
         - https://pytorch.org/vision/main/auto_examples/others/plot_visualization_utils.html#instance-seg-output
 
   22. Voice Cloning
+  23. Text-to-speech
+  24. Text-to-Video
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
