@@ -43,7 +43,8 @@ AI:
      
         - https://pytorch.org/vision/main/models/generated/torchvision.models.detection.maskrcnn_resnet50_fpn.html
         - https://pytorch.org/vision/main/auto_examples/others/plot_visualization_utils.html#instance-seg-output
-      
+
+  22. Voice Cloning
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
   2. https://stackoverflow.com/questions/515309/what-does-cmd-c-mean
@@ -112,5 +113,4 @@ Windows:
                   $_.Current.Name
               }
 
-MbnmESt/mWL1H41ojX0XqHdW5CB2ViWfr6KAaGBrxPk=
 
