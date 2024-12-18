@@ -43,10 +43,11 @@ AI:
      
         - https://pytorch.org/vision/main/models/generated/torchvision.models.detection.maskrcnn_resnet50_fpn.html
         - https://pytorch.org/vision/main/auto_examples/others/plot_visualization_utils.html#instance-seg-output
-
+          
   22. Voice Cloning
   23. Text-to-speech
   24. Text-to-Video
+  25. https://www.quora.com/Is-it-possible-to-use-both-CPUs-and-GPUs-for-training-deep-learning-models-If-yes-how-can-one-do-that-in-PyTorch#:~:text=Yes%2C%20it%20is%20possible%20to,nn.
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
