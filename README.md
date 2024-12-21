@@ -50,6 +50,7 @@ AI:
   24. Text-to-Video
   25. https://www.quora.com/Is-it-possible-to-use-both-CPUs-and-GPUs-for-training-deep-learning-models-If-yes-how-can-one-do-that-in-PyTorch#:~:text=Yes%2C%20it%20is%20possible%20to,nn.
   26. https://github.com/iCGY96/awesome_OpenSetRecognition_list?tab=readme-ov-file
+  27. https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing&authuser=2#scrollTo=mkYDCkdQPwmR
       
 Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
