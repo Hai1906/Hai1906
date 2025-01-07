@@ -1,18 +1,18 @@
 ## Note 👋
 https://github.com/prpjzz/RelicService
-C#:
+# C#:
   1. Assign function for enum: https://stackoverflow.com/questions/49590253/be-able-to-call-a-function-from-an-enum-c-sharp
   2. Class from (string)ClassName: https://stackoverflow.com/questions/1044455/c-sharp-reflection-how-to-get-class-reference-from-string
   3. String to enum: https://stackoverflow.com/questions/16100/convert-a-string-to-an-enum-in-c-sharp
 
-Python:
+# Python:
   1. https://stackoverflow.com/questions/3061/calling-a-function-of-a-module-by-using-its-name-a-string
   2. https://github.com/Belval/pdf2image
 
-Git:
+# Git:
   1. https://github.com/github/gitignore/tree/main
      
-AI:
+# AI:
   1. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
   2. https://www.kaggle.com/code/pestipeti/pytorch-starter-fasterrcnn-train/notebook
   3. https://www.kaggle.com/code/debanga/faster-rcnn-a-gentle-introduction/notebook
@@ -52,18 +52,18 @@ AI:
   26. https://github.com/iCGY96/awesome_OpenSetRecognition_list?tab=readme-ov-file
   27. https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing&authuser=2#scrollTo=mkYDCkdQPwmR
       
-Scripts:
+# Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
   2. https://stackoverflow.com/questions/515309/what-does-cmd-c-mean
   3. https://www.manageengine.com/products/desktop-central/script-templates/latest-script.html
      
-FrontEnd:
+# FrontEnd:
   1. https://freefrontend.com/
      
-QR:
+# QR:
   1. https://pypi.org/project/qreader/
 
-Windows:
+# Windows:
   1. https://learn.microsoft.com/en-us/answers/questions/354631/using-wmi-uninstall-commands-with-variables
   2. Uninstall application:
       # Uninstall Script for Specific Software
