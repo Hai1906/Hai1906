@@ -1,0 +1,21 @@
+- Hàm lấy thông tin về exception (dòng, file xảy ra exception):
+    public  string ExceptionInfo(Exception exception_0)
+    {
+        Marshal.GetHRForException(exception_0);
+        string text = exception_0.Message + " - ";
+        foreach (StackFrame stackFrame in new StackTrace(exception_0, true).GetFrames())
+        {
+            if (stackFrame.GetFileLineNumber() > 0)
+            {
+                text = string.Concat(new string[]
+                {
+                    text,
+                "Line:",
+                Convert.ToString(stackFrame.GetFileLineNumber()),
+                " Filename: ",
+                Path.GetFileName(stackFrame.GetFileName())
+                });
+            }
+        }
+        return text;
+    }
