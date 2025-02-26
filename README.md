@@ -52,7 +52,7 @@ https://github.com/prpjzz/RelicService
   26. https://github.com/iCGY96/awesome_OpenSetRecognition_list?tab=readme-ov-file
   27. https://colab.research.google.com/drive/1Ys44kVvmeZtnICzWz0xgpRnrIOjZAuxp?usp=sharing&authuser=2#scrollTo=mkYDCkdQPwmR
   28. https://www.robots.ox.ac.uk/~vgg/software/via/ (Via - preprocessing image for maskrcnn)
-      
+  29. https://pytorch.org/vision/main/models/generated/torchvision.models.detection.keypointrcnn_resnet50_fpn.html#torchvision.models.detection.keypointrcnn_resnet50_fpn      
 # Scripts:
   1. https://github.com/massgravel/microsoft-activation-scripts
   2. https://stackoverflow.com/questions/515309/what-does-cmd-c-mean
